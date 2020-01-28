@@ -1,2 +1,1 @@
-# CSE185
-Computer Vision
+# CSE185 - Computer Vision
